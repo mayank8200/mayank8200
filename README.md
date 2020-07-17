@@ -30,5 +30,4 @@ Talk to me about
 
 ![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank8200&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mayank8200.mayank8200)
 
