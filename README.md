@@ -4,8 +4,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### Profile Views :<br>
+<img src="https://profile-counter.glitch.me/mayank8200/count.svg" />
 
-  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 [![Twitter Badge](https://img.shields.io/badge/-@Mayank_crazy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Mayank_crazy)](https://twitter.com/Mayank_crazy) [![Linkedin Badge](https://img.shields.io/badge/-MayankBajaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-bajaj)](https://www.linkedin.com/in/mayank-bajaj)
 [![Medium Badge](https://img.shields.io/badge/-@mayank114-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mayank114)](https://medium.com/@mayank114)
 [![Gmail Badge](https://img.shields.io/badge/-mayankbajaj114@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayankbajaj114@gmail.com)](mailto:mayankbajaj114@gmail.com)
