@@ -33,7 +33,8 @@ Talk to me about
 - 🎯 Our Startup Elearning Website: [Website](https://codewarriors2020.github.io/)
 - 🔔 Subscribe:- [Code Warriors](https://www.youtube.com/channel/CodeWarriors)
 - ⚡ Fun fact: Internet users blink less than usual.
+### Tools I work upon : 🛠
+<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>      <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />     <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />     <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />     <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>	<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank8200&hide=["issues"]&show_icons=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=mayank8200&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
