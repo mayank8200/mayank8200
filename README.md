@@ -1,40 +1,61 @@
-![Name](Message.gif)
-![Name](MayankBajaj.png)
+<img src="https://fontmeme.com/permalink/210127/4f68b3b89e507b7a5f587a7bd1c1397c.png">
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<h2> Hey there! I'm Mayank.</h2>
 
-### Profile Views :<br>
-<img src="https://profile-counter.glitch.me/mayank8200/count.svg" />
+<<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-### Connect me: <strong>(Click below on badges to visit my Profile !)</strong>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Engineering at Uka Tarsadia University.
+- 💼 &nbsp; Working as a Senior AI/ML Intern at Stallion Techmark.
+- 🌱 &nbsp; Learning more about Artificial Intelligence , BlockChain and Devops.
+- ✍️ &nbsp; Pursuing Community Building and Blog Writing as hobbies/side hustles.
 
-[![Twitter Badge](https://img.shields.io/badge/-@Mayank_crazy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Mayank_crazy)](https://twitter.com/Mayank_crazy) [![Linkedin Badge](https://img.shields.io/badge/-MayankBajaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-bajaj)](https://www.linkedin.com/in/mayank-bajaj)
-[![Medium Badge](https://img.shields.io/badge/-@mayank114-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mayank114)](https://medium.com/@mayank114)
-[![Gmail Badge](https://img.shields.io/badge/-mayankbajaj114@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayankbajaj114@gmail.com)](mailto:mayankbajaj114@gmail.com)
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-I am Mayank Bajaj 😃. I am from Surat, Gujarat and currently doing my B.Tech from Uka Tarsadia University 🏫.I love to explore and learn about new things.
-## 👯 Communities
-* Founder at Code Warriors
-* CamPus Ambassador at Coding Blocks
-* CamPus Ambassador at Coding Ninja
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)&nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **NodeJS,ExpressJS**
-- Robust full-stack system design implementation
-- Implementation of **Machine Learning** algorithms
-- Different projects regarding **Natural Language Processing**
-- Known to database languages like **SQL, MySQL and MongoDB**
-- Knowledge of **Blockchain** and familiar with building **smart contracts using solidity**.
-## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Youtube Comment Analyser Project: [Project](https://yt-comment-analyser.herokuapp.com/)
-- 🎯 Our Startup Elearning Website: [Website](https://codewarriors2020.github.io/)
-- 🔔 Subscribe:- [Code Warriors](https://www.youtube.com/channel/CodeWarriors)
-- ⚡ Fun fact: Internet users blink less than usual.
 ### Tools I work upon : 🛠
-<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>      <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />     <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />     <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />     <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>	<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>     &nbsp; <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> &nbsp;    <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> &nbsp;    <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> &nbsp;    <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+<br/>
+<br/>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=mayank8200&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
+<br/>
+<br/>
+<br/>
 
+<a href="https://github.com/mayank8200">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank8200&theme=buefy&show_icons=true" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank8200&theme=buefy&layout=compact" />
+</a>
+<br/>
+<br/>
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<br>
+<p>
+<a href="https://www.mayankbajaj.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mayankbajaj.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/mayank-bajaj/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mayank%20Bajaj-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/m.a.y.a.n.k_bajaj/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-m.a.y.a.n.k_bajaj-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:mayankbajaj114@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mayankbajaj114@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
