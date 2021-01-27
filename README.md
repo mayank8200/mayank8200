@@ -49,7 +49,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <br>
 <p>
-<a href="https://www.mayank-bajaj.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mayank-bajaj.me-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.mayank-bajaj.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mayankbajaj.me-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mayank-bajaj/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mayank%20Bajaj-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/m.a.y.a.n.k_bajaj/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-m.a.y.a.n.k_bajaj-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:mayankbajaj114@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mayankbajaj114@gmail.com-blue?style=flat-square&logo=gmail"></a>
