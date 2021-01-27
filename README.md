@@ -37,10 +37,6 @@
 <br/>
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=mayank8200&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
-<br/>
-<br/>
-<br/>
 
 <a href="https://github.com/mayank8200">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank8200&theme=buefy&show_icons=true" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
